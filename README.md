@@ -5,5 +5,7 @@ Setting up a Github repository for the TU-Wien lecture Open Source Energy Modeli
 
 This program:
 -) Squares a number.
+
 -) Cubes a number.
+
 -) Checks if a number is even.
