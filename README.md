@@ -10,4 +10,4 @@ This program asks the user for a number and counts following:
 
 -) Cube of the number.
 
--) Checks if th number is even.
+-) Checks if the number is even.
