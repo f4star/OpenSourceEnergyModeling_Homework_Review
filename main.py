@@ -5,7 +5,7 @@ def main():
     while True:
         num = input("Enter a number (or any letter to EXIT): ")
         if not num.isdigit():
-            print("EXITing program.")
+            print("EXIT program.")
             break
         num = int(num)
         print(f"Square: {square(num)}")
