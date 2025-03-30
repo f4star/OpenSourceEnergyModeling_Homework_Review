@@ -1,9 +1,9 @@
 # utils.py
 def square(n):
-    return n * n
+    return n
 
 def cube(n):
-    return n * n * n
+    return n*n
 
 def is_even(n):
-    return n % 2 == 0
+    return n%2==0
